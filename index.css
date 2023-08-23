@@ -1,0 +1,43 @@
+/* ==UserStyle==
+@name         comspeed.cloudflare.com
+@version      20230823.13.04
+@namespace    userstyles.world/user/101br03k
+@description  comspeed.cloudflare.com gray theme
+@author       101br03k
+@license      No License
+==/UserStyle== */
+
+@-moz-document url-prefix("https://speed.cloudflare.com/") {
+:root{
+    --bg: #8c8b8b;
+    --color: #fff;
+    background-color: var(--bg);
+    color: var(--color);
+}
+body{
+    background-color: var(--bg);
+    color: var(--color);
+    }
+.ck {
+    background-color: var(--bg);
+}
+.cl :hover {
+	transition: fade;
+    background-color: #8c8b8b;
+}
+.y{
+	background-color: var(--color);
+}
+.t{
+	color: var(--color);
+}
+.n{
+	color: var(--color)
+}
+.cy {
+    background-color: var(--bg);
+}
+.ix {
+    background-color: var(--bg);
+}
+}
