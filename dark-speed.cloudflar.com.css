@@ -1,10 +1,11 @@
 /* ==UserStyle==
-@name         comspeed.cloudflare.com
+@name         speed.cloudflare.com
 @version      20230823.13.04
 @namespace    userstyles.world/user/101br03k
-@description  comspeed.cloudflare.com gray theme
+@description  speed.cloudflare.com gray theme
 @author       101br03k
 @license      No License
+@homepageURL  https://github.com/101br03k/userstyles.world
 ==/UserStyle== */
 
 @-moz-document url-prefix("https://speed.cloudflare.com/") {
