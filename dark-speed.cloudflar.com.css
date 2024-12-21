@@ -1,13 +1,12 @@
 /* ==UserStyle==
-@name         speed.cloudflare.com
-@version      20230823.13.05
+@name         dark speed.cloudflare.com
+@version      20241221.16.51
 @namespace    userstyles.world/user/101br03k
-@description  speed.cloudflare.com gray theme
+@description  dark speed.cloudflare.com
 @author       101br03k
 @license      No License
 @homepageURL  https://github.com/101br03k/userstyles.world
 ==/UserStyle== */
-
 @-moz-document url-prefix("https://speed.cloudflare.com/") {
     :root {
         --dark: #1f232a;
